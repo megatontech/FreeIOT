@@ -1,3 +1,4 @@
-# FreeIOT
-一个有趣的小东西，让你的GITHUB博客成为免费私有物联网的展示窗口
-https://megatontech.github.io/hr/
+﻿@echo off
+cd D:\Github\FreeIOT
+git add .
+git commit -m "test"
