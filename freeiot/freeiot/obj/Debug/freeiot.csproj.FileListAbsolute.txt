@@ -1,0 +1,5 @@
+E:\Github\freeiot\freeiot\freeiot\bin\Debug\freeiot.exe.config
+E:\Github\freeiot\freeiot\freeiot\bin\Debug\freeiot.exe
+E:\Github\freeiot\freeiot\freeiot\bin\Debug\freeiot.pdb
+E:\Github\freeiot\freeiot\freeiot\obj\Debug\freeiot.exe
+E:\Github\freeiot\freeiot\freeiot\obj\Debug\freeiot.pdb

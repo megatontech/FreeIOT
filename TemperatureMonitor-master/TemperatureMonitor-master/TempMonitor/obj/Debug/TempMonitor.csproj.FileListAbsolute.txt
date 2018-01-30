@@ -1,0 +1,18 @@
+c:\users\inspiron\documents\visual studio 2012\Projects\TempMonitor\TempMonitor\obj\Debug\TempMonitor.csprojResolveAssemblyReference.cache
+c:\users\inspiron\documents\visual studio 2012\Projects\TempMonitor\TempMonitor\obj\Debug\TempMonitor.Form1.resources
+c:\users\inspiron\documents\visual studio 2012\Projects\TempMonitor\TempMonitor\obj\Debug\TempMonitor.Properties.Resources.resources
+c:\users\inspiron\documents\visual studio 2012\Projects\TempMonitor\TempMonitor\obj\Debug\TempMonitor.csproj.GenerateResource.Cache
+c:\users\inspiron\documents\visual studio 2012\Projects\TempMonitor\TempMonitor\bin\Debug\TempMonitor.exe
+c:\users\inspiron\documents\visual studio 2012\Projects\TempMonitor\TempMonitor\bin\Debug\TempMonitor.pdb
+c:\users\inspiron\documents\visual studio 2012\Projects\TempMonitor\TempMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+c:\users\inspiron\documents\visual studio 2012\Projects\TempMonitor\TempMonitor\obj\Debug\TempMonitor.exe
+c:\users\inspiron\documents\visual studio 2012\Projects\TempMonitor\TempMonitor\obj\Debug\TempMonitor.pdb
+C:\Users\yuri\Downloads\TemperatureMonitor-master\TemperatureMonitor-master\TempMonitor\obj\Debug\TempMonitor.exe
+C:\Users\yuri\Downloads\TemperatureMonitor-master\TemperatureMonitor-master\TempMonitor\obj\Debug\TempMonitor.pdb
+C:\Users\yuri\Downloads\TemperatureMonitor-master\TemperatureMonitor-master\TempMonitor\bin\Debug\TempMonitor.exe
+C:\Users\yuri\Downloads\TemperatureMonitor-master\TemperatureMonitor-master\TempMonitor\bin\Debug\TempMonitor.pdb
+C:\Users\yuri\Downloads\TemperatureMonitor-master\TemperatureMonitor-master\TempMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\yuri\Downloads\TemperatureMonitor-master\TemperatureMonitor-master\TempMonitor\obj\Debug\TempMonitor.csprojResolveAssemblyReference.cache
+C:\Users\yuri\Downloads\TemperatureMonitor-master\TemperatureMonitor-master\TempMonitor\obj\Debug\TempMonitor.Form1.resources
+C:\Users\yuri\Downloads\TemperatureMonitor-master\TemperatureMonitor-master\TempMonitor\obj\Debug\TempMonitor.Properties.Resources.resources
+C:\Users\yuri\Downloads\TemperatureMonitor-master\TemperatureMonitor-master\TempMonitor\obj\Debug\TempMonitor.csproj.GenerateResource.Cache
